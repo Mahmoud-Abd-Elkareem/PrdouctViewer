@@ -1,0 +1,74 @@
+#header{
+  width: 100vw;
+  position: relative;
+  border-bottom: 1px solid #000;
+  }
+
+#Logo{
+  position:relative;
+  margin-left: 7%;
+  margin-top: 1%;
+  width: 3%;
+}
+#PageName{
+  position: absolute;
+  top: 40%;
+  left: 11%;
+  /* Text md/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 150%;
+line-height: 1.75vw;
+/* identical to box height, or 150% */
+
+
+color: #000000;
+}
+
+#HomeLink{
+  position: absolute;
+  top: 40%;
+  left: 23%;
+  /* Text md/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 150%;
+line-height: 1.75vw;
+/* identical to box height, or 150% */
+
+
+/* Gray/500 */
+
+color: #667085;
+cursor: pointer;
+
+}
+
+#LogIn{
+  position: absolute;
+  top: 40%;
+  left: 90%;
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 150%;
+line-height: 1.75vw;
+/* identical to box height, or 150% */
+
+
+/* Gray/500 */
+
+color: #667085;
+cursor: pointer;
+
+}
+
+#divider{
+  position: relative;
+  top: 5vw;
+}
+

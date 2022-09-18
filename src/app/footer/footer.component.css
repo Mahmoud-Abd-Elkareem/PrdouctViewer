@@ -1,0 +1,59 @@
+#footer{
+
+  position: fixed;
+  height: 15vh;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+
+/* Gray/800 */
+
+background: #1D2939;
+}
+
+#Logo{
+  position: absolute;
+  margin-left: 7.5%;
+  margin-top: 3%;
+  width: 2.5%;
+}
+#PageName{
+  position: absolute;
+  top: 48%;
+  left: 11%;
+  /* Text md/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 100%;
+line-height: 1.75vw;
+/* identical to box height, or 150% */
+
+
+color: #ffffff;
+}
+
+#copyRight{
+  position: absolute;
+  margin-left: 80%;
+  margin-top: 3%;
+
+  /* Text md/Normal */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 100%;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  text-align: right;
+
+  /* Gray/400 */
+
+  color: #98A2B3;
+
+
+}

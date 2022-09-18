@@ -1,0 +1,141 @@
+#LogInBox{
+  position:relative;
+  margin-left: 37vw;
+  width: 26vw;
+}
+#Logo{
+  position:absolute;
+  left: 45%;
+bottom: 100%;
+
+}
+
+#LogInTitle{
+  margin-top: 40%;
+  padding-top: 10%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 200%;
+  line-height: 1.75vw;
+  /* identical to box height, or 127% */
+
+  text-align: center;
+
+  /* Gray/900 */
+
+  color: #101828;
+
+
+}
+
+#SubTitle{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 120%;
+line-height: 1.75vw;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+/* Gray/500 */
+
+color: #667085;
+}
+
+#EmailLabel{
+  position:absolute;
+  left: 10%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 100%;
+  line-height: 1.75vw;
+  /* identical to box height, or 143% */
+
+
+  /* Gray/700 */
+
+  color: #344054;
+}
+
+#EmailInput{
+  box-sizing: border-box;
+
+/* Auto layout */
+
+position:absolute;
+left: 10%;
+top: 140%;
+gap: 1.5vw;
+
+width: 80%;
+height: 30%;
+
+/* Base/White */
+
+background: #FFFFFF;
+/* Gray/300 */
+
+border: 1px solid #D0D5DD;
+/* Shadow/xs */
+
+box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+border-radius: 8px;
+
+}
+
+#PasswordLabel{
+  position:absolute;
+  left: 10%;
+  top: 180%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 100%;
+  line-height: 1.75vw;
+  /* identical to box height, or 143% */
+
+
+  /* Gray/700 */
+
+  color: #344054;
+}
+
+#PasswordInput{
+  box-sizing: border-box;
+
+/* Auto layout */
+
+position:absolute;
+left: 10%;
+top: 210%;
+gap: 1.5vw;
+
+width: 80%;
+height: 30%;
+
+/* Base/White */
+
+background: #FFFFFF;
+/* Gray/300 */
+
+border: 1px solid #D0D5DD;
+/* Shadow/xs */
+
+box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+border-radius: 8px;
+
+}
+
+#LogInButton{
+  position:absolute;
+  left: 10%;
+  top: 260%;
+  width: 90%;
+  height: 30%;
+}
+
+
